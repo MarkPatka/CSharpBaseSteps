@@ -1,0 +1,30 @@
+C:\Users\MarkK\OneDrive\Рабочий стол\study\programming\С#\homeworks\arrays2dim\obj\Debug\net6.0\arrays2dim.csproj.AssemblyReference.cache
+C:\Users\MarkK\OneDrive\Рабочий стол\study\programming\С#\homeworks\arrays2dim\obj\Debug\net6.0\arrays2dim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarkK\OneDrive\Рабочий стол\study\programming\С#\homeworks\arrays2dim\obj\Debug\net6.0\arrays2dim.AssemblyInfoInputs.cache
+C:\Users\MarkK\OneDrive\Рабочий стол\study\programming\С#\homeworks\arrays2dim\obj\Debug\net6.0\arrays2dim.AssemblyInfo.cs
+C:\Users\MarkK\OneDrive\Рабочий стол\study\programming\С#\homeworks\arrays2dim\obj\Debug\net6.0\arrays2dim.csproj.CoreCompileInputs.cache
+C:\Users\MarkK\OneDrive\Рабочий стол\study\programming\С#\homeworks\arrays2dim\bin\Debug\net6.0\arrays2dim.exe
+C:\Users\MarkK\OneDrive\Рабочий стол\study\programming\С#\homeworks\arrays2dim\bin\Debug\net6.0\arrays2dim.deps.json
+C:\Users\MarkK\OneDrive\Рабочий стол\study\programming\С#\homeworks\arrays2dim\bin\Debug\net6.0\arrays2dim.runtimeconfig.json
+C:\Users\MarkK\OneDrive\Рабочий стол\study\programming\С#\homeworks\arrays2dim\bin\Debug\net6.0\arrays2dim.dll
+C:\Users\MarkK\OneDrive\Рабочий стол\study\programming\С#\homeworks\arrays2dim\bin\Debug\net6.0\ref\arrays2dim.dll
+C:\Users\MarkK\OneDrive\Рабочий стол\study\programming\С#\homeworks\arrays2dim\bin\Debug\net6.0\arrays2dim.pdb
+C:\Users\MarkK\OneDrive\Рабочий стол\study\programming\С#\homeworks\arrays2dim\obj\Debug\net6.0\arrays2dim.dll
+C:\Users\MarkK\OneDrive\Рабочий стол\study\programming\С#\homeworks\arrays2dim\obj\Debug\net6.0\ref\arrays2dim.dll
+C:\Users\MarkK\OneDrive\Рабочий стол\study\programming\С#\homeworks\arrays2dim\obj\Debug\net6.0\arrays2dim.pdb
+C:\Users\MarkK\OneDrive\Рабочий стол\study\programming\С#\homeworks\arrays2dim\obj\Debug\net6.0\arrays2dim.genruntimeconfig.cache
+D:\Study\Workflow\С#\homeworks\arrays2dim\bin\Debug\net6.0\arrays2dim.exe
+D:\Study\Workflow\С#\homeworks\arrays2dim\bin\Debug\net6.0\arrays2dim.deps.json
+D:\Study\Workflow\С#\homeworks\arrays2dim\bin\Debug\net6.0\arrays2dim.runtimeconfig.json
+D:\Study\Workflow\С#\homeworks\arrays2dim\bin\Debug\net6.0\arrays2dim.dll
+D:\Study\Workflow\С#\homeworks\arrays2dim\bin\Debug\net6.0\ref\arrays2dim.dll
+D:\Study\Workflow\С#\homeworks\arrays2dim\bin\Debug\net6.0\arrays2dim.pdb
+D:\Study\Workflow\С#\homeworks\arrays2dim\obj\Debug\net6.0\arrays2dim.csproj.AssemblyReference.cache
+D:\Study\Workflow\С#\homeworks\arrays2dim\obj\Debug\net6.0\arrays2dim.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Workflow\С#\homeworks\arrays2dim\obj\Debug\net6.0\arrays2dim.AssemblyInfoInputs.cache
+D:\Study\Workflow\С#\homeworks\arrays2dim\obj\Debug\net6.0\arrays2dim.AssemblyInfo.cs
+D:\Study\Workflow\С#\homeworks\arrays2dim\obj\Debug\net6.0\arrays2dim.csproj.CoreCompileInputs.cache
+D:\Study\Workflow\С#\homeworks\arrays2dim\obj\Debug\net6.0\arrays2dim.dll
+D:\Study\Workflow\С#\homeworks\arrays2dim\obj\Debug\net6.0\ref\arrays2dim.dll
+D:\Study\Workflow\С#\homeworks\arrays2dim\obj\Debug\net6.0\arrays2dim.pdb
+D:\Study\Workflow\С#\homeworks\arrays2dim\obj\Debug\net6.0\arrays2dim.genruntimeconfig.cache
